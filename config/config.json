@@ -1,0 +1,44 @@
+{
+  "development": {
+    "username": "default",
+    "password": "4DbVGHp5unqT",
+    "database": "verceldb",
+    "host": "ep-patient-wave-a4geyh5q.us-east-1.aws.neon.tech",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "default",
+    "password": "4DbVGHp5unqT",
+    "database": "verceldb",
+    "host": "ep-patient-wave-a4geyh5q.us-east-1.aws.neon.tech",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "default",
+    "password": "4DbVGHp5unqT",
+    "database": "verceldb",
+    "host": "ep-patient-wave-a4geyh5q.us-east-1.aws.neon.tech",
+    "port": 5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
